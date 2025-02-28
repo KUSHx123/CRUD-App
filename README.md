@@ -83,7 +83,7 @@ CRUD-App/
 
 ## Deployment
 This project is deployed on **Vercel**.
-- Live Demo: [Prescripto](https://prescripto.vercel.app/)
+- Live Demo: 
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repo, open an issue, or submit a pull request.
